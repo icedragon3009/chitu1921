@@ -1,0 +1,9 @@
+# macOS 自动生成的文件
+.DS_Store
+
+# 所有隐藏文件（以 . 开头）
+.* 
+
+# 但保留 .gitignore 自己
+!.gitignore
+
